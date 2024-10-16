@@ -9,6 +9,7 @@ permissions:
   content: read
   pages: write
   id-toke: write
+
   
 jobs:
   build:
